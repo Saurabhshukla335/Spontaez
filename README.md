@@ -17,7 +17,6 @@
 
         <img src="https://images.app.goo.gl/zGu2b1YPbvuZ2W389" alt="Saurabhshukladigital">
 </a>       
-        </head> 
- </html>
+ 
 
     
