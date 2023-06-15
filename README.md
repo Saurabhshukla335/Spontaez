@@ -1,5 +1,4 @@
-# Spontaez
-We're changing the world with Technology! 
+
 <!DOCTYPE html>
 
 <html>
